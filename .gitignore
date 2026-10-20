@@ -1,0 +1,21 @@
+# Variáveis de ambiente e credenciais
+.env
+.env.*
+!.env.example
+
+# Arquivos e pastas privadas
+secrets/
+private/
+credentials/
+
+# Chaves de segurança
+*.key
+*.pem
+
+# Dependências e arquivos temporários
+node_modules/
+__pycache__/
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
