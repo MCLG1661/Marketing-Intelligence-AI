@@ -226,9 +226,9 @@ A base MIA incorporada é documental e não substitui a execução verificável 
 
 **Marcus Corrêa Lopes Guedes**
 
-[GitHub](https://github.com/MCLG1661)
+[MCLG](https://github.com/MCLG1661)
 
-[(Linkedin)](https://www.linkedin.com/in/marcusguedes/)
+[Marcus Guedes](https://www.linkedin.com/in/marcusguedes/)
 
 Desenvolvimento de soluções em Inteligência Artificial, Marketing Intelligence, Data Analytics e Transformação Digital.
 
