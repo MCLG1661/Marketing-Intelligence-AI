@@ -235,3 +235,7 @@ Desenvolvimento de soluções em Inteligência Artificial, Marketing Intelligenc
 ---
 
 **Marketing Intelligence AI — Transformando dados e objetivos comerciais em decisões mais fundamentadas.**
+
+## Projeto complementar
+
+[MIA — Marketing Intelligence Analyst](https://github.com/MCLG1661/Analista-de-Marketing-Inteligente) é um MVP separado de dashboard de campanhas baseado em JavaScript e regras analíticas. Os projetos são complementares, sem integração técnica presumida.
