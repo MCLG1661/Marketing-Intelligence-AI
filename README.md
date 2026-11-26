@@ -11,6 +11,9 @@
 
 An AI agent for marketing strategy, campaign analytics, content, SEO and commercial intelligence. It uses the documented MIA methodology to connect business objectives, KPIs and actionable recommendations. Version 1.0.2 incorporates the MIA knowledge reference; it does not execute the separate JavaScript dashboard or integrate with it automatically.
 
+
+[Business Case Study — English](BUSINESS_CASE.md)
+
 ---
 
 ## Sobre o projeto
