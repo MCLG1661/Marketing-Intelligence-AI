@@ -6,6 +6,11 @@
 ![Versão](https://img.shields.io/badge/Vers%C3%A3o-1.0.2-blue)
 ![Projeto](https://img.shields.io/badge/Projeto-ONE%20AI%20for%20Business-orange)
 
+
+## English overview
+
+An AI agent for marketing strategy, campaign analytics, content, SEO and commercial intelligence. It uses the documented MIA methodology to connect business objectives, KPIs and actionable recommendations. Version 1.0.2 incorporates the MIA knowledge reference; it does not execute the separate JavaScript dashboard or integrate with it automatically.
+
 ---
 
 ## Sobre o projeto
